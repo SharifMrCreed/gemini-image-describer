@@ -1,5 +1,9 @@
 # Gemini Image Describer
 
+![Sharif Gemini Image Describer](https://github.com/SharifMrCreed/gemini-image-describer/blob/production/assets/Gemini%20Image%20Describer%20thumbnail.png)
+
+[Heres the Youtube Video](https://www.youtube.com/watch?v=hy_e72OZc8A&t=6s)
+
 ## Overview
 The Gemini Image Describer is an Android application that uses Google's generative A.I Kotlin Client library to provide detailed descriptions of images. The app utilizes the Gemini Pro Vision AI model to not only describe the content within images but also provide context and explanatory observations.
 
